@@ -171,6 +171,7 @@ return [
         Swap\Laravel\SwapServiceProvider::class,
         Laravel\Socialite\SocialiteServiceProvider::class,
         MarkTopper\DoctrineDBALTimestampType\Laravel5ServiceProvider::class,
+        Laravoole\LaravooleServiceProvider::class,
 
         /*
          * Application Service Providers...

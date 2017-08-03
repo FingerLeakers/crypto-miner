@@ -6,6 +6,7 @@
         "php": ">=7.0.0",
         "doctrine/dbal": "^2.5",
         "florianv/laravel-swap": "^1.1",
+        "garveen/laravoole": "^0.5.1",
         "illuminated/console-mutex": "^1.4",
         "kitetail/zttp": "^0.1.0",
         "laracasts/utilities": "^2.1",
